@@ -17,5 +17,5 @@ The goal of this project is to
    1. This README.md
    2. The SQL queries themselves in cooltshirts.sql
    3. The Presentation in CoolTShirts.pptx
-   4. The grading rubric for the procedt in attribution-rubric-for-learners-ADwSQL.pdf
+   4. The grading rubric for the project in attribution-rubric-for-learners-ADwSQL.pdf
    5. The style guide used for this project in SQL+Style+Guide+for+Analyze+Data+with+SQL.pdf
